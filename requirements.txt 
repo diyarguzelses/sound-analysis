@@ -1,0 +1,7 @@
+librosa
+pydub
+wave
+numpy
+scikit-learn
+tensorflow
+matplotlib
